@@ -1,0 +1,1906 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"passage",
+				"passageImportModal"
+			],
+			[
+				"firefly",
+				"firefly	Wash's dinosaurs"
+			],
+			[
+				"correct",
+				"correctResponses"
+			],
+			[
+				"correc",
+				"correctResponses"
+			],
+			[
+				"Core",
+				"CorrectResponseModel"
+			],
+			[
+				"Correct",
+				"CorrectResponseModel"
+			],
+			[
+				"Corr",
+				"CorrectResponsesModel"
+			],
+			[
+				"Correc",
+				"CorrectResponsesModel"
+			],
+			[
+				"CorrectRe",
+				"CorrectResponsesCollection"
+			],
+			[
+				"allDrop",
+				"allDropdownChoices"
+			],
+			[
+				"Cor",
+				"CorrectResponsesModel"
+			],
+			[
+				"corre",
+				"correctResponses"
+			],
+			[
+				"getCorre",
+				"getCorrectResponseData"
+			],
+			[
+				"simpl",
+				"simpleChoiceArray"
+			],
+			[
+				"exten",
+				"extension"
+			],
+			[
+				"ext",
+				"extension"
+			],
+			[
+				"distra",
+				"distractor-rationale"
+			],
+			[
+				"dist",
+				"distractorRationaleList"
+			],
+			[
+				"on",
+				"onMetaDataRender"
+			],
+			[
+				"dis",
+				"distractorRationale"
+			],
+			[
+				"distracto",
+				"distractor-rationale"
+			],
+			[
+				"save",
+				"saveDistractorRationale"
+			],
+			[
+				"distrac",
+				"distractorRationale"
+			],
+			[
+				"string",
+				"stringify"
+			],
+			[
+				"distractor",
+				"distractorRationale"
+			],
+			[
+				"feedback",
+				"feedbackBlock"
+			],
+			[
+				"load",
+				"loadDistractorRationale"
+			],
+			[
+				"assetData",
+				"assetDataCallback"
+			],
+			[
+				"fet",
+				"fetchAssetData"
+			],
+			[
+				"distr",
+				"distractorRationaleIndex"
+			],
+			[
+				"alph",
+				"alphaLabels"
+			],
+			[
+				"feed",
+				"feedbackBlock"
+			],
+			[
+				"intera",
+				"interaction"
+			],
+			[
+				"interactin",
+				"interactionid"
+			],
+			[
+				"dista",
+				"distractorRationale"
+			],
+			[
+				"choic",
+				"choiceModel"
+			],
+			[
+				"update",
+				"updateDistractorRationale"
+			],
+			[
+				"init",
+				"initializeDistractorRationale"
+			],
+			[
+				"id",
+				"identifier"
+			],
+			[
+				"Distrac",
+				"DistractorRationaleList"
+			],
+			[
+				"Choic",
+				"ChoiceDistractorRationale"
+			],
+			[
+				"Dis",
+				"DistractorRationales"
+			],
+			[
+				"rational",
+				"rationalsByInteraction"
+			],
+			[
+				"onMeta",
+				"onMetadataRenderedCallback"
+			],
+			[
+				"hasFe",
+				"hasFeedbackBlock"
+			],
+			[
+				"asset",
+				"assetData"
+			],
+			[
+				"ass",
+				"assetData"
+			],
+			[
+				"event",
+				"eventSelector"
+			],
+			[
+				"feedb",
+				"feedbackBlock"
+			],
+			[
+				"firefl",
+				"firefly	Sir? Your brain is missing"
+			],
+			[
+				"firef",
+				"firefly	Wash's dinosaurs"
+			],
+			[
+				"inter",
+				"interactionID"
+			],
+			[
+				"interac",
+				"interactionID"
+			],
+			[
+				"meta",
+				"metaDataRendered"
+			],
+			[
+				"dr",
+				"drObj"
+			],
+			[
+				"di",
+				"distractorRationale"
+			],
+			[
+				"in",
+				"initialize"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"mediaAss",
+				"mediaAssetsToRemove"
+			],
+			[
+				"atta",
+				"attachmentrefid"
+			],
+			[
+				"fileM",
+				"fileMaxSize"
+			],
+			[
+				"ini",
+				"initializefileUtil"
+			],
+			[
+				"al",
+				"entryAlreadyExist"
+			],
+			[
+				"trans",
+				"transformedContent"
+			],
+			[
+				"removeItem",
+				"removeItemFromCollection"
+			],
+			[
+				"Popup",
+				"PopupGlossaryModel"
+			],
+			[
+				"Tiny",
+				"TinymcePlaceHolder"
+			],
+			[
+				"collec",
+				"collectionEvent"
+			],
+			[
+				"popup",
+				"popupGlossaryView"
+			],
+			[
+				"data",
+				"data-type"
+			],
+			[
+				"glossary",
+				"glossaryButtonClicked"
+			],
+			[
+				"popo",
+				"popupGlossary"
+			],
+			[
+				"hid",
+				"hideIcons"
+			],
+			[
+				"entry",
+				"entryAlreadyExist"
+			],
+			[
+				"alrea",
+				"alreadyExist"
+			],
+			[
+				"simple",
+				"simpleChoiceViews"
+			],
+			[
+				"upd",
+				"updateInlineGapText"
+			],
+			[
+				"onCon",
+				"onContentChangeComplete"
+			],
+			[
+				"get",
+				"getChoiceRichTextView"
+			],
+			[
+				"dataN",
+				"dataNodeView"
+			],
+			[
+				"choice",
+				"choice"
+			],
+			[
+				"log",
+				"logEntries"
+			],
+			[
+				"rich",
+				"richTextView"
+			],
+			[
+				"keywor",
+				"keyword-glossary"
+			],
+			[
+				"li",
+				"listenTo"
+			],
+			[
+				"onContent",
+				"onContentChangeComplete"
+			],
+			[
+				"Text",
+				"TextView"
+			],
+			[
+				"tin",
+				"tinymceClick"
+			],
+			[
+				"getContent",
+				"getContentForContext"
+			],
+			[
+				"ke",
+				"keyword-glossary"
+			],
+			[
+				"content",
+				"content"
+			],
+			[
+				"console",
+				"console	console.log()"
+			],
+			[
+				"con",
+				"console	console.debug()"
+			],
+			[
+				"nod",
+				"nodeObj"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-right"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 142.0,
+		"selected_items":
+		[
+			[
+				"alignment",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"syntax jad",
+				"Set Syntax: Jade"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git checkout cure",
+				"Git: Checkout Current File"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"pretty js",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"git checkout cur",
+				"Git: Checkout Current File"
+			],
+			[
+				"git cehckout cur",
+				"Git: Checkout Current File"
+			],
+			[
+				"html pr",
+				"HTMLPrettify"
+			],
+			[
+				"git checkout curr",
+				"Git: Checkout Current File"
+			],
+			[
+				"git",
+				"Git: Help"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"prett jso",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"git checkout cu",
+				"Git: Checkout Current File"
+			],
+			[
+				"git di",
+				"Git: Diff"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"html",
+				"HTMLPrettify: Set Keyboard Shortcuts"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"set syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"scss",
+				"SCSS Expander: Expand Cursor Scope"
+			],
+			[
+				"sccs",
+				"SCSS Expander: Expand Cursor Scope"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"disable ",
+				"Package Control: Disable Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
+			[
+				"jshing",
+				"JSHint: Set Plugin Options"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"jshin",
+				"JSHint: Set Plugin Options"
+			],
+			[
+				"jshi",
+				"JSHint: Set Linting Preferences"
+			],
+			[
+				"listpa",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"packagecon",
+				"Package Control: Enable Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"lint v",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"sublimel",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"sublimeli",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"sublimli",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"sublimelin",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"subli",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"syntax js",
+				"Set Syntax: JSON"
+			],
+			[
+				"syntax pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"syntax xml",
+				"Set Syntax: XML"
+			],
+			[
+				"syntax",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syntax json",
+				"Set Syntax: JSON"
+			],
+			[
+				"linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"linter to",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"ling",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"toggle sc",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"scop t",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"synj",
+				"Set Syntax: JSON"
+			],
+			[
+				"syntj",
+				"Set Syntax: JSON"
+			],
+			[
+				"checkout cur",
+				"Git: Checkout Current File"
+			],
+			[
+				"instal ",
+				"Package Control: Install Package"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lsit pac",
+				"Package Control: List Packages"
+			],
+			[
+				"scop",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"open ",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"instal p",
+				"Package Control: Install Package"
+			],
+			[
+				"git checkout cuir",
+				"Git: Checkout Current File"
+			],
+			[
+				"opren re",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pretty json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"synta javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"keybi",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"list key",
+				"List bound keys"
+			],
+			[
+				"key con",
+				"FindKeyConflicts: Command Search"
+			],
+			[
+				"command",
+				"FindKeyConflicts: Command Search"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"list bou",
+				"List bound keys"
+			],
+			[
+				"confl",
+				"FindKeyConflicts: Command Search"
+			],
+			[
+				"list",
+				"List bound keys"
+			],
+			[
+				"extr",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – User"
+			],
+			[
+				"extrac",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"package res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"json pre",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"json p",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"git bran",
+				"Git: Checkout New Branch"
+			],
+			[
+				"git checkout",
+				"Git: Checkout Current File"
+			],
+			[
+				"git add c",
+				"Git: Add Current File"
+			],
+			[
+				"git ad",
+				"Git: Add Current File"
+			],
+			[
+				"pref",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add cu",
+				"Git: Add Current File"
+			],
+			[
+				"checkout",
+				"Git: Checkout Current File"
+			],
+			[
+				"checkou",
+				"Git: Checkout Current File"
+			],
+			[
+				"syntaxjs",
+				"Set Syntax: JSON"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add curr",
+				"Git: Add Current File"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"brack",
+				"BracketHighlighter: Match Brackets (ignore threshold)"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"add rep",
+				"Package Control: Add Repository"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"checkout c",
+				"Git: Checkout Current File"
+			],
+			[
+				"checkout cu",
+				"Git: Checkout Current File"
+			],
+			[
+				"syntax javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set syntax javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"git checkou curren",
+				"Git: Checkout Current File"
+			],
+			[
+				"git add curre",
+				"Git: Add Current File"
+			],
+			[
+				"format json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pretty jston",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"git checkou",
+				"Git: Checkout"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"scope",
+				"Scope Hunter: Show Scope Under Cursor(s)"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"syn jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"git check ou cr",
+				"Git: Checkout Current File"
+			],
+			[
+				"git add cur",
+				"Git: Add Current File"
+			],
+			[
+				"git stash",
+				"Git: Apply Stash"
+			],
+			[
+				"git diff",
+				"Git: Diff"
+			],
+			[
+				"git branch",
+				"Legit: Branches"
+			],
+			[
+				"git che",
+				"Git: Checkout New Branch"
+			],
+			[
+				"set syn jso",
+				"Set Syntax: JSON"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 451.0,
+		"history":
+		[
+			"import os; print(os.environ['PATH'])",
+			"log_commands(1)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jpainter/Projects/media-node"
+	],
+	"file_history":
+	[
+		"/Users/jpainter/Projects/media-node-yo/Gruntfile.js",
+		"/Users/jpainter/Projects/media-node/grunt_configs/browserify.js",
+		"/Users/jpainter/Projects/media-node/bower_components/backbone/.bower.json",
+		"/Users/jpainter/Projects/media-node/bower_components/backbone/package.json",
+		"/Users/jpainter/Projects/media-node/grunt_configs/bower.js",
+		"/Users/jpainter/Projects/media-node/client/requires/jquery/js/jquery.js",
+		"/Users/jpainter/Projects/benm/bower.json",
+		"/Users/jpainter/Projects/benm/package.json",
+		"/Users/jpainter/Projects/media-node/grunt/configs/nodemon.js",
+		"/Users/jpainter/Projects/media-node/grunt/configs/concat.js",
+		"/Users/jpainter/Library/Application Support/Sublime Text 3/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/jpainter/Projects/media-node/server.js",
+		"/Users/jpainter/Projects/media-node/grunt/configs/compass.js",
+		"/Users/jpainter/Projects/media-node/Gruntfile.js",
+		"/Users/jpainter/Projects/media-node/grunt/configs/bower.js",
+		"/Users/jpainter/Projects/media-node/grunt/configs/browserify.js",
+		"/Users/jpainter/Projects/media-node/grunt/configs/watch.js",
+		"/Users/jpainter/Projects/media-node/grunt/configs/copy.js",
+		"/Users/jpainter/Projects/media-node/grunt/configs/cssmin.js",
+		"/Users/jpainter/Projects/media-node/grunt/configs/uglify.js",
+		"/Users/jpainter/Projects/media-node/grunt/configs/clean.js",
+		"/Users/jpainter/Projects/media-node/grunt/configs/time.js",
+		"/Users/jpainter/Projects/media-node/bower.json",
+		"/Users/jpainter/Projects/media-node/package.json",
+		"/Users/jpainter/Projects/media-node/grunt/configs/pkg.js",
+		"/Users/jpainter/Projects/media-node/public/bower.json",
+		"/Users/jpainter/Projects/media-node/node_modules/.bin/beefy",
+		"/Users/jpainter/Projects/media-node/bin/www",
+		"/Users/jpainter/Projects/media-node/index.js",
+		"/Users/jpainter/Projects/media-node/views/index.jst.jade",
+		"/Users/jpainter/Projects/media-node/app-view.js",
+		"/Users/jpainter/Projects/media-node/.bowerrc",
+		"/Users/jpainter/Projects/media-node/main.js",
+		"/Users/jpainter/Projects/media-node/app.js",
+		"/Users/jpainter/Projects/media-node/views/layout.jade",
+		"/Users/jpainter/Projects/media-node/views/index.jade",
+		"/Users/jpainter/Projects/media-node/routes/index.js",
+		"/Users/jpainter/Projects/media-node/.jshintrc",
+		"/Users/jpainter/Projects/media-node/public/stylesheets/style.css",
+		"/Users/jpainter/Projects/media-node/bower_components/flat-ui/dist/index.html",
+		"/Users/jpainter/Projects/media-node/public/javascripts/vendor/flat-ui-master/README.md",
+		"/Users/jpainter/Projects/media-node/routes/users.js",
+		"/Users/jpainter/Projects/media-node/node_modules/serve-favicon/index.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/views/authoring/textEntry/correctResponse.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/views/authoring/textEntry/textEntry.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/models/authoring/matchInteraction.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/models/authoring/textEntryInteraction.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/views/authoring/matchInteraction/SimpleChoice.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/views/assetTypePage.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/util/commUtils.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/util/session.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/views/assetTypeGrid.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/models/context.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/views/gridView.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/views/assetsGridView.js",
+		"/Users/jpainter/.bash_profile",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/util/assetGridColumnConfig.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/templates/assetTypeGridUINSearchBox.ejs",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/models/scoring/simpleSingleInteractionScoring.js",
+		"/Users/jpainter/Projects/abbi-play/app/models/bulkImportApi/StatusError.java",
+		"/Users/jpainter/Projects/abbi-play/public/data/standard.json",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/views/attachmentListView.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/util/modal/passageImportModalView.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/templates/modal/passageImportModal.ejs",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/views/authoring/ChoiceInteraction/SimpleChoice.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/views/authoring/matchInteraction/formatting.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/templates/authoring/matchInteraction/formatting.ejs",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/templates/authoring/ChoiceInteraction/Formatting.ejs",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/templates/authoring/ChoiceInteraction/SimpleChoice.ejs",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/views/authoring/textEntryInteraction/correctResponses.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/vendor/flat-ui-official/js/flatui-checkbox.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/models/attachment.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/views/attachmentUploadView.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/views/attachmentModeView.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/views/attachmentListItem.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/views/associatedLinksGridView.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/util/modal/modalManager.js",
+		"/Users/jpainter/Projects/abbi-play/public/data/translations/en-US.json",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/views/authoring/ChoiceInteraction/Formatting.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/templates/editChoiceInteraction.ejs",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/templates/authoring/graphicGapMatchInteraction/choices.ejs",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/templates/authoring/hottextInteraction/choices.ejs",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/templates/authoring/matchInteraction/choices.ejs",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/templates/editTextChoice.ejs",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/templates/authoring/hottextInteraction/choices_header.ejs",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/templates/authoring/gapMatch/choices.ejs",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/templates/authoring/ChoiceInteraction/Choices.ejs",
+		"/Users/jpainter/Projects/abbi-play/node_modules/grunt-contrib-jst/test/fixtures/template_local_scope.html",
+		"/Users/jpainter/Projects/abbi-play/public/tmp/scripts/templates.js",
+		"/Users/jpainter/Projects/abbi-play/test/authoring/spec/textEntryModel.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/models/authoring/textExtractor.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/views/tinymceView.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/models/authoring/choiceInteraction.js",
+		"/Users/jpainter/Projects/abbi-play/public/data/choice.json",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/views/forgotPassword.js",
+		"/Users/jpainter/Projects/abbi-play/public/styles/_flat-ui-overrides.scss",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/models/associatedPassageModel.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/collections/associatedPassagesCollection.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/models/asset.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/views/authoring/artAsset/artSubview.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/models/authoring/artAsset.js",
+		"/Users/jpainter/Projects/abbi-play/public/scripts/views/authoring/module.js",
+		"/Users/jpainter/Projects/abbi-play/public/styles/main.css",
+		"/Users/jpainter/Dropbox/Sublime Text/Projects/S74703-video.sublime-project",
+		"/Users/jpainter/DropBox/Projects/abbi-play/public/scripts/util/modal/passageImportModalView.js",
+		"/Users/jpainter/DropBox/Projects/abbi-play/public/data/translations/errors-en-US.json",
+		"/Users/jpainter/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/jpainter/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/jpainter/DropBox/Projects/abbi-play/public/scripts/views/gridView.js",
+		"/Users/jpainter/DropBox/Projects/abbi-play/public/scripts/util/error.js",
+		"/Users/jpainter/DropBox/Projects/abbi-play/public/scripts/util/dataUtils.js",
+		"/Users/jpainter/DropBox/Projects/abbi-play/public/data/user.json",
+		"/Users/jpainter/DropBox/Projects/abbi-play/public/data/translations/errors-es-US.json",
+		"/Users/jpainter/DropBox/Projects/abbi-play/public/scripts/templates/dataNode.ejs",
+		"/Users/jpainter/DropBox/Projects/abbi-play/public/scripts/views/dataNode.js",
+		"/Users/jpainter/DropBox/Projects/abbi-play/public/scripts/views/metaDataReadOnlyView.js",
+		"/Users/jpainter/DropBox/Projects/abbi-play/public/scripts/templates/metaDataAttributes.ejs",
+		"/Users/jpainter/DropBox/Projects/abbi-play/public/scripts/templates/modal/passageImportModal.ejs",
+		"/Users/jpainter/DropBox/Projects/abbi-play/public/scripts/util/assetFileUtils.js",
+		"/Users/jpainter/DropBox/Projects/abbi-play/public/scripts/models/authoring/video.js",
+		"/Users/jpainter/DropBox/Projects/abbi-play/public/scripts/models/authoring/videoAsset.js",
+		"/Users/jpainter/DropBox/Projects/abbi-play/public/bower_components/backbone/test/model.coffee",
+		"/Users/jpainter/DropBox/Projects/abbi-play/public/scripts/vendor/codemirror/test/mode_test.css",
+		"/Users/jpainter/DropBox/Projects/abbi-play/public/scripts/views/authoring/module.js",
+		"/Users/jpainter/DropBox/Projects/abbi-play/public/styles/main.css",
+		"/Users/jpainter/DropBox/Projects/abbi-play/public/scripts/models/asset.js",
+		"/Users/jpainter/DropBox/Projects/abbi-play/public/scripts/views/authoring/artAsset/artSubview.js",
+		"/Users/jpainter/DropBox/Projects/abbi-play/public/scripts/models/authoring/artAsset.js"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 94.0,
+		"where_history":
+		[
+			"",
+			"getFileExtension",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"underscore",
+			"\"",
+			"server",
+			"app",
+			"h",
+			"icon",
+			"getChoiceMOdel",
+			"getModel",
+			"DocumentCollection",
+			"Collection",
+			"Choice",
+			"new ",
+			"new",
+			"collection",
+			"reset",
+			"prerender",
+			"gridView:prerendered",
+			"CommUtils.deleteFromSession",
+			"gridstate",
+			"setPage",
+			"saveGridState",
+			"icon-sort-down",
+			"filterValue",
+			"assetGridViewDiv",
+			"502",
+			"error",
+			".push",
+			"class",
+			"bold",
+			"classAttr",
+			"displayClassAttr",
+			"classAttr",
+			"_bold",
+			"checkbox",
+			"default",
+			"comparator",
+			"!classAt",
+			"isOnDOM",
+			"initEvents",
+			"multisort",
+			"datatype",
+			"numeric",
+			"multisort",
+			"setGridParam",
+			"onSortCol",
+			"that.$el.",
+			"hidemodal",
+			"/Google Drive/development/",
+			"tab",
+			"showgrowl",
+			"error",
+			"growl",
+			"console.log",
+			"trigger",
+			"/Google Drive/development/",
+			"result",
+			"trigger",
+			"gridEvents",
+			"onSelectRow",
+			"gridView",
+			"esc",
+			"27",
+			"hidemodal",
+			"keypress",
+			"correct",
+			"onResize",
+			"overflow",
+			"legacy",
+			"model",
+			".text",
+			"entries",
+			"/",
+			"trim",
+			"isChecked",
+			"event",
+			"model",
+			"text-entry-instructions",
+			"\\.get\\((.*\\)",
+			"\\.get\\((.*)\\)",
+			"lables",
+			"labels",
+			"rightpanel",
+			"id",
+			"collections",
+			"gap",
+			"popup",
+			"DomUtils",
+			"initialization should inherit",
+			"initialization should inherit defaults from DataNode",
+			"ChoiceInteraction initialization should inherit defaults from DataNode",
+			"initializ",
+			"onMetaDataRender",
+			"rendered",
+			"onMetadataRendered",
+			"this.listenTo",
+			"feedback",
+			"tool",
+			"feedback",
+			"tooltip",
+			"saveneeded",
+			"this.assetData",
+			"distractor-rational",
+			"'distractorRational'",
+			"distractorRational",
+			"DataUtils",
+			"assetData",
+			"if",
+			"complete",
+			"save",
+			"\\\"",
+			"response",
+			"models/authoring/textEntryInteraction",
+			"models/authoring/textEntryInteraction\"",
+			"\"",
+			"inlineTextEntry",
+			"inlineTextEntryInteraction",
+			"inlineTextEntry",
+			"inlineTextInteraction",
+			"textEntryInteraction",
+			"InlineTextEntryView",
+			"inlineTextEntry",
+			"CorrectResponse",
+			"InlineTextEntry",
+			"TextEntryModuleView",
+			"textEntryModel",
+			"TextEntryModel",
+			"CorrectResponse",
+			"correctResponse"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"/Projects/",
+			"/DropBox/Projects/",
+			"\\[$1\\]",
+			"labels",
+			"AssetDataUtils",
+			"\"",
+			"'",
+			"inlineTextEntryInteraction",
+			"'",
+			"",
+			"blank2",
+			"blank1",
+			"blank2",
+			"this.model.get('editor')",
+			"data-name",
+			"",
+			";",
+			"metadata",
+			"saveDistractorRationale",
+			"this.assetData",
+			"",
+			"assetFileUtility",
+			"getFileExtension",
+			"",
+			"fileUtility",
+			"",
+			"''",
+			"filemask",
+			"entryProperties",
+			"this.getTinymceContent",
+			"entryDefinition",
+			"/Google Drive/development/abbi-play",
+			"TinymceUtils",
+			"this.updateEntries",
+			"VideoModule",
+			"'",
+			", this.cid: ', this.cid, ' entries: ' , this.getEntries());",
+			", this.cid: ', this.get('cid'), ' entries: ' , this.getEntries());",
+			" , this.getEntries());",
+			"this.richTextView.closeTinymce();",
+			"console.log",
+			"",
+			"onSelected",
+			"onSelect"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 279.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 92.0
+	},
+	"output.git-commit":
+	{
+		"height": 92.0
+	},
+	"output.package_dev":
+	{
+		"height": 92.0
+	},
+	"output.sbt":
+	{
+		"height": 92.0
+	},
+	"output.sbt_error":
+	{
+		"height": 0.0
+	},
+	"output.scope_viewer":
+	{
+		"height": 92.0
+	},
+	"project": "media-node.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"session",
+				"  Util/session.js"
+			],
+			[
+				"commutls",
+				"  Util/commUtils.js"
+			],
+			[
+				"templateschoiceinterfor",
+				"Templates/authoring/ChoiceInteraction/Formatting.ejs"
+			],
+			[
+				"choiceinteractionformatting",
+				"  Views - Authoring/ChoiceInteraction/Formatting.js"
+			],
+			[
+				"en",
+				"Data/translations/en-US.json"
+			],
+			[
+				"associate",
+				"  Views - All/associatedLinksGridView.js"
+			],
+			[
+				"modalma",
+				"  Util/modal/modalManager.js"
+			],
+			[
+				"utilerror",
+				"  Util/error.js"
+			],
+			[
+				"dataerr",
+				"Data/translations/errors-en-US.json"
+			],
+			[
+				"modelvidea",
+				"  Models - Authoring/videoAsset.js"
+			],
+			[
+				"modelvide",
+				"  Models - Authoring/video.js"
+			],
+			[
+				"assetfile",
+				"  Util/assetFileUtils.js"
+			],
+			[
+				"utilerr",
+				"  Util/error.js"
+			],
+			[
+				"dataerror",
+				"Data/translations/errors-es-US.json"
+			],
+			[
+				"modelpop",
+				"  Models - Authoring/popupGlossary.js"
+			],
+			[
+				"modelitem.",
+				"  Models - All/item.js"
+			],
+			[
+				"modelspop",
+				"  Models - Authoring/popupGlossary.js"
+			],
+			[
+				"viewspop",
+				"  Views - Authoring/popupGlossary/popupGlossary.js"
+			],
+			[
+				"templatematch",
+				"Templates/authoring/matchInteraction/matchGroupSelect.ejs"
+			],
+			[
+				"templatechoices",
+				"Templates/authoring/ChoiceInteraction/Choices.ejs"
+			],
+			[
+				"templatespopup",
+				"Templates/authoring/popupGlossary/popupGlossary.ejs"
+			],
+			[
+				"viewspopup",
+				"  Views - Authoring/popupGlossary/popupGlossary.js"
+			],
+			[
+				"tinymc",
+				"  Views - All/tinymceView.js"
+			],
+			[
+				"tinymcepopuppl",
+				"Scripts/vendor/tinymce/plugins/popupglossary/plugin.min.js"
+			],
+			[
+				"modelspopup",
+				"  Models - Authoring/popupGlossary.js"
+			],
+			[
+				"viewspopu",
+				"  Views - Authoring/popupGlossary/popupGlossary.js"
+			],
+			[
+				"richtextview",
+				"  Views - Authoring/richTextView.js"
+			],
+			[
+				"utilintl",
+				"  Util/intlize.js"
+			],
+			[
+				"modeldata",
+				"  Models - Authoring/dataNode.js"
+			],
+			[
+				"modeldatan",
+				"  Models - Authoring/dataNode.js"
+			],
+			[
+				"datanod",
+				"  Views - All/dataNode.js"
+			],
+			[
+				"modelchoicei",
+				"  Models - Authoring/choiceInteraction.js"
+			],
+			[
+				"viewsrichtextv",
+				"  Views - Authoring/richTextView.js"
+			],
+			[
+				"comm",
+				"  Util/commUtils.js"
+			],
+			[
+				"assetdata",
+				"  Util/assetDataUtils.js"
+			],
+			[
+				"gitstatus",
+				"Abbi-Play/public/bower_components/sass-bootstrap/docs/templates/pages/getting-started.mustache"
+			],
+			[
+				"richtextvie",
+				"Abbi-Play/public/scripts/views/authoring/richTextView.js"
+			],
+			[
+				"viewspopupgo",
+				"  Views - Authoring/popupGlossary/popupGlossary.js"
+			],
+			[
+				"editme",
+				"  Views - All/editMetaDataView.js"
+			],
+			[
+				"templatesimpl",
+				"Templates/authoring/ChoiceInteraction/SimpleChoice.ejs"
+			],
+			[
+				"asset.",
+				"  Models - All/asset.js"
+			],
+			[
+				"videoas",
+				"  Models - Authoring/videoAsset.js"
+			],
+			[
+				"simplechoic",
+				"  Views - Authoring/ChoiceInteraction/SimpleChoice.js"
+			],
+			[
+				"util/data",
+				"  Util/dataUtils.js"
+			],
+			[
+				"authoring",
+				"  Util/authoringModuleFactory.js"
+			],
+			[
+				"assetdatamo",
+				"  Models - All/assetDataModel.js"
+			],
+			[
+				"item.j",
+				"  Models - All/item.js"
+			],
+			[
+				"richtextedi",
+				"  Views - Authoring/richTextEditView.js"
+			],
+			[
+				"content.js",
+				"  Views - Authoring/table/content.js"
+			],
+			[
+				"richtex",
+				"  Views - Authoring/richTextView.js"
+			],
+			[
+				"textentryinteractioncor",
+				"  Models - Authoring/textEntryInteraction/correctResponses.js"
+			],
+			[
+				"",
+				"Abbi-Play/public/data/translations/en-US.json"
+			],
+			[
+				"image.js",
+				"  Models - Authoring/image.js"
+			],
+			[
+				"video.js",
+				"  Models - Authoring/video.js"
+			],
+			[
+				"main.c",
+				"Styles/main.css"
+			],
+			[
+				"_art",
+				"Styles/_art-asset.scss"
+			],
+			[
+				"viewstinym",
+				"  Views - All/tinymceView.js"
+			],
+			[
+				"transl",
+				"Data/translations/en-US.json"
+			],
+			[
+				"transla",
+				"Data/translations/en-US.json"
+			],
+			[
+				"modelpopup",
+				"  Models - Authoring/popupGlossary.js"
+			],
+			[
+				"authoringmod",
+				"  Util/authoringModuleFactory.js"
+			],
+			[
+				"authoringmo",
+				"Abbi-Play/public/scripts/util/authoringModuleFactory.js"
+			],
+			[
+				"module",
+				"  Views - Authoring/module.js"
+			],
+			[
+				"image.j",
+				"  Models - Authoring/image.js"
+			],
+			[
+				"artasset",
+				"  Models - Authoring/artAsset.js"
+			],
+			[
+				"modelvideo",
+				"  Models - Authoring/video.js"
+			],
+			[
+				"viewstinymc",
+				"  Views - All/tinymceView.js"
+			],
+			[
+				"index",
+				"Test/index.html"
+			],
+			[
+				"main.css",
+				"Styles/main.css"
+			],
+			[
+				"styles",
+				"Styles/_art.scss"
+			],
+			[
+				"popupgl",
+				"  Models - Authoring/popupGlossary.js"
+			],
+			[
+				"popup",
+				"  Models - Authoring/popupGlossary.js"
+			],
+			[
+				"modelitem",
+				"  Models - All/item.js"
+			],
+			[
+				"modelchoic",
+				"  Models - Authoring/choiceInteraction.js"
+			],
+			[
+				"modelass",
+				"  Models - All/asset.js"
+			],
+			[
+				"itembu",
+				"  Views - All/itemBuilder.js"
+			],
+			[
+				"error-es",
+				"Data/translations/errors-es-US.json"
+			],
+			[
+				"error-en",
+				"Data/translations/errors-en-US.json"
+			],
+			[
+				"videomod",
+				"  Views - Authoring/video/videoModule.js"
+			],
+			[
+				"viewar",
+				"  Views - All/artAssetView.js"
+			],
+			[
+				"imageview",
+				"  Views - All/imageView.js"
+			],
+			[
+				"assetfil",
+				"  Util/assetFileUtils.js"
+			],
+			[
+				"modelvideoas",
+				"  Models - Authoring/videoAsset.js"
+			],
+			[
+				"viewrichtextedit",
+				"  Views - Authoring/richTextEditView.js"
+			],
+			[
+				"modelda",
+				"  Models - Authoring/dataNode.js"
+			],
+			[
+				"modelricht",
+				"  Models - Authoring/richtext.js"
+			],
+			[
+				"tinymcepluginpopup",
+				"Scripts/vendor/tinymce/plugins/popupglossary/plugin.min.js"
+			],
+			[
+				"viewsrichte",
+				"Abbi-Play/public/scripts/views/authoring/richTextView.js"
+			],
+			[
+				"viewstiny",
+				"  Views - All/tinymceView.js"
+			],
+			[
+				"modelchoice",
+				"  Models - Authoring/choiceInteraction.js"
+			],
+			[
+				"modelsitem",
+				"  Models - All/item.js"
+			],
+			[
+				"modelimag",
+				"Abbi-Play/public/scripts/models/authoring/image.js"
+			],
+			[
+				"viewsimag",
+				"  Views - All/imageView.js"
+			],
+			[
+				"modelvid",
+				"Abbi-Play/public/scripts/models/authoring/video.js"
+			],
+			[
+				"viewvideomo",
+				"  Views - Authoring/video/videoModule.js"
+			],
+			[
+				"viewsartas",
+				"  Views - Authoring/artAsset/artAsset.js"
+			],
+			[
+				"artassetview",
+				"  Views - All/artAssetView.js"
+			],
+			[
+				"tinymceplugpop",
+				"Scripts/vendor/tinymce/plugins/popupglossary/plugin.min.js"
+			],
+			[
+				"modelartass",
+				"  Models - Authoring/artAsset.js"
+			],
+			[
+				"modelasset.",
+				"  Models - All/asset.js"
+			],
+			[
+				"commut",
+				"  Util/commUtils.js"
+			],
+			[
+				"modelit",
+				"  Models - All/item.js"
+			],
+			[
+				"assetf",
+				"  Util/assetFileUtils.js"
+			],
+			[
+				"modelartas",
+				"  Models - Authoring/artAsset.js"
+			],
+			[
+				"modelimage",
+				"  Models - Authoring/image.js"
+			],
+			[
+				"artas",
+				"  Models - Authoring/artAsset.js"
+			],
+			[
+				"fileut",
+				"  Util/assetFileUtils.js"
+			],
+			[
+				"modelsvid",
+				"  Models - Authoring/video.js"
+			],
+			[
+				"videoass",
+				"  Models - Authoring/videoAsset.js"
+			],
+			[
+				"templateschoices",
+				"Templates/authoring/ChoiceInteraction/Choices.ejs"
+			],
+			[
+				"templatestextentryformat",
+				"Templates/authoring/textEntryInteraction/formatting.ejs"
+			],
+			[
+				"styleschoic",
+				"Styles/_choice-interaction.scss"
+			],
+			[
+				"intl",
+				"  Util/intlize.js"
+			],
+			[
+				"templateschoiceform",
+				"Templates/authoring/ChoiceInteraction/Formatting.ejs"
+			],
+			[
+				"corr",
+				"  Views - Authoring/ChoiceInteraction/CorrectResponses.js"
+			],
+			[
+				"viewschoicfor",
+				"  Views - Authoring/ChoiceInteraction/Formatting.js"
+			],
+			[
+				"viewstexte",
+				"  Views - Authoring/textEntry/textEntry.js"
+			],
+			[
+				"viewschoicei",
+				"  Views - Authoring/ChoiceInteraction/ChoiceInteraction.js"
+			],
+			[
+				"viewstextcon",
+				"  Views - Authoring/text/content.js"
+			],
+			[
+				"viewchoicefor",
+				"  Views - Authoring/ChoiceInteraction/Formatting.js"
+			],
+			[
+				"styleschoice",
+				"Styles/_choice-interaction.scss"
+			],
+			[
+				"viewstextcont",
+				"  Views - Authoring/text/content.js"
+			],
+			[
+				"viewstext",
+				"  Views - Authoring/text/text.js"
+			],
+			[
+				"viewseditsu",
+				"  Views - Authoring/editSubview.js"
+			],
+			[
+				"viewssubi",
+				"  Views - Authoring/subview.js"
+			],
+			[
+				"viewssimple",
+				"  Views - Authoring/ChoiceInteraction/SimpleChoice.js"
+			],
+			[
+				"viewstextentrycor",
+				"Abbi-Play/public/scripts/views/authoring/textEntry/correctAnswer.js"
+			],
+			[
+				"viewtextentry",
+				"  Views - Authoring/textEntry/textEntry.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 594.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 288.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
