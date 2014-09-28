@@ -1,6 +1,16 @@
 {
   "name": "media-node",
-  "version": "0.0.0",
+  "description": "Epic Media Metadata Management.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "private": true,
+  "authors": [
+    "Justin Painter <justinlpainter@gmail.com"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justinpainter/media-node.git"
+  },
   "dependencies": {
     "sass-bootstrap": "~3.0.2",
     "jquery": "~2.1.0",

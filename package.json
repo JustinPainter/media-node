@@ -1,6 +1,17 @@
 {
-  "name": "medianodeyo",
-  "version": "0.0.0",
+  "name": "media-node",
+  "description": "Epic Media Metadata Management.",
+  "author": "Justin Painter <justinlpainter@gmail.com",
+  "private": true,
+  "license": "MIT",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justinpainter/media-node.git"
+  },
+  "bugs": {
+  "url": "https://github.com/justinpainter/media-node/issues"
+  },
   "dependencies": {
     "imdb-api": "^1.3.3",
     "underscore": "^1.7.0"
